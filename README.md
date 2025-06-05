@@ -1,4 +1,4 @@
-# DIABETICS ANALYSIS-Tableau
+# DIABETES ANALYSIS-Tableau
 ![image](https://github.com/user-attachments/assets/947df7e6-93ab-4592-afab-64ea1f3e32aa)
 
 ## INTRODUCTION
